@@ -1,0 +1,2 @@
+### Uber Eats Trip query API
+https://drivers.uber.com/p3/payments/v2/trips/
